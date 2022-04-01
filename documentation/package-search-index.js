@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.pokego"},{"l":"com.pokego.datamodel"},{"l":"com.pokego.desktop"},{"l":"com.pokego.errors"},{"l":"com.pokego.game.game_data"},{"l":"com.pokego.game.game_phase"},{"l":"com.pokego.game.game_ui"},{"l":"com.pokego.states"},{"l":"com.pokego.utility"}]

@@ -1,0 +1,7 @@
+﻿moveID,moveName,moveType,moveClass,moveSpriteLocation,moveBaseDamage,moveDamageBlocked,movePP,moveFrameCount,moveFrameDuration
+1,Fireball,FIRE,ATTACK,./animations/fireball_animated.png,50,0,100,4,0.5
+2,Grassball,GRASS,ATTACK,./animations/grassball_animated.png,50,0,100,4,0.5
+3,Waterball,WATER,ATTACK,./animations/waterball_animated.png,50,0,100,4,0.5
+4,Fire Shield,FIRE,DEFENSE,./animations/firewall.png,0,50,100,1,1
+5,Grass Shield,GRASS,DEFENSE,./animations/grasswall.png,0,50,100,1,1
+6,Water Shield,WATER,DEFENSE,./animations/waterwall.png,0,50,100,1,1

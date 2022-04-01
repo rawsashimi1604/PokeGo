@@ -1,0 +1,17 @@
+Back=Welcome back! How can I help you today?\n\n-Help\n-Smalltalk
+
+Help=What help do you need?\n-How to play\n-How to win\n-Pokemon types\n-About moves\n\n\n\n\nType 'Back' to go previous page
+
+How to play=1) At the start of the game, 6 Poke-mon will be randomly assigned to you.\n2) Each of the Poke-mon will have their own attack and defend skills. They will have their own strength and weakness.\n3) You will be given 5 seconds to choose your move before the face off with your opponent.\n4) If no move is chosen within the time limit, your turn will be skipped.\n5) If a player does not have a Poke-mon left, they lose the game.\n\nGood Luck!\n\n\n\nType 'Help' to go back.
+
+How to win=Beat all the other player's monsters to win.\n\n\n\n\n\nType 'Help' to go back.
+
+About moves=There are 4 moves for a Poke-mon to use: Waterball, Fireball, GrassBall and Shield\nEach move has its own typing\nWaterball - Water\nFireball - Fire\nGrassball - Grass\nShield - It can be fire/water/grass, depending on the Poke-mon typings\n\n\n\nType 'Help' to go back.
+
+Pokemon types=There are 3 types of Poke-mon in this game: Water, Fire, Grass.\nEach Poke-mon has a weakness:\nWater is weak against Grass\nGrass is weak against Fire\nFire is weak against Water\n\n\n\n\n\nType 'Help' to go back.
+
+Smalltalk=Hey there! How are you today?
+Good=That is good to hear!
+Great=That is good to hear!
+Nice weather we are having=No it is not! Singapore weather very hot!
+Who is the best professor?=Prof Gavin

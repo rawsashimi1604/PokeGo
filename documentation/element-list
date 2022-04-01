@@ -1,0 +1,9 @@
+com.pokego
+com.pokego.datamodel
+com.pokego.desktop
+com.pokego.errors
+com.pokego.game.game_data
+com.pokego.game.game_phase
+com.pokego.game.game_ui
+com.pokego.states
+com.pokego.utility
